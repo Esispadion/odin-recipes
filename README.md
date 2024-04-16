@@ -1,4 +1,3 @@
-##Building a Personal Blog Website
+# Building a Personal Blog Website
 
 The current project involves building a personal blog website as part of The Odin Project's curriculum. Through this project, you will learn various skills and concepts essential for web development, including HTML, CSS, and JavaScript. Additionally, you will gain hands-on experience in designing and structuring web pages, styling them with CSS to enhance visual appeal, and adding interactivity using JavaScript. By completing this project, you will demonstrate proficiency in front-end web development fundamentals, enabling you to create dynamic and engaging websites. Moreover, you will develop problem-solving skills and the ability to translate design ideas into functional web applications. This project serves as a foundational step in your journey to becoming a proficient web developer, empowering you to create your own projects and contribute to web development endeavors.
-
